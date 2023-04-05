@@ -4,22 +4,22 @@ Please [click here to see the detailed guidelines](https://docs.google.com/docum
 
 ## Submission guidelines:
 
-### Proposal**: 
+### Proposal
 
-#### proposal.pdf
+##### proposal.pdf
 
-#### proposal_presentation.pdf
+##### proposal_presentation.pdf
   
 ### Demo 
 
-#### demo_presentation.pdf  
+##### demo_presentation.pdf  
  
-#### make sure to push code until that stage
+##### make sure to push code until that stage
 
 ### Report and code 
 
-#### report.pdf 
+##### report.pdf 
  
-#### how_to_run.md
+##### how_to_run.md
  
-#### codebase in the folder sourcecode
+##### codebase in the folder sourcecode
